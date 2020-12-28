@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bank", "Bank\Bank.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankNUnitTests", "BankNUnitTests\BankNUnitTests.csproj", "{B26B161C-31B7-43EC-9E56-981F64F82935}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankXUnitTests", "BankXUnitTests\BankXUnitTests.csproj", "{D35819B5-A383-49C2-9256-BAFCE475E07F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,18 @@ Global
 		{B26B161C-31B7-43EC-9E56-981F64F82935}.Release|x64.Build.0 = Release|Any CPU
 		{B26B161C-31B7-43EC-9E56-981F64F82935}.Release|x86.ActiveCfg = Release|Any CPU
 		{B26B161C-31B7-43EC-9E56-981F64F82935}.Release|x86.Build.0 = Release|Any CPU
+		{D35819B5-A383-49C2-9256-BAFCE475E07F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D35819B5-A383-49C2-9256-BAFCE475E07F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D35819B5-A383-49C2-9256-BAFCE475E07F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D35819B5-A383-49C2-9256-BAFCE475E07F}.Debug|x64.Build.0 = Debug|Any CPU
+		{D35819B5-A383-49C2-9256-BAFCE475E07F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D35819B5-A383-49C2-9256-BAFCE475E07F}.Debug|x86.Build.0 = Debug|Any CPU
+		{D35819B5-A383-49C2-9256-BAFCE475E07F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D35819B5-A383-49C2-9256-BAFCE475E07F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D35819B5-A383-49C2-9256-BAFCE475E07F}.Release|x64.ActiveCfg = Release|Any CPU
+		{D35819B5-A383-49C2-9256-BAFCE475E07F}.Release|x64.Build.0 = Release|Any CPU
+		{D35819B5-A383-49C2-9256-BAFCE475E07F}.Release|x86.ActiveCfg = Release|Any CPU
+		{D35819B5-A383-49C2-9256-BAFCE475E07F}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
